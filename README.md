@@ -17,6 +17,5 @@ https://www.youtube.com/watch?v=CvY3Jp34jPM
 <div>
   <img width="261" height="260" align="left" src="https://github.com/NicolasPCouts/Pacman-Clone/blob/master/screenshots/screenshot.png">
   <img width="261" height="260" align="left" src="https://github.com/NicolasPCouts/Pacman-Clone/blob/master/screenshots/screenshot2.png">
-  <img width="261" height="260" align="left" src="https://github.com/NicolasPCouts/Pacman-Clone/blob/master/screenshots/screenshot2.png">
 
 </div>
